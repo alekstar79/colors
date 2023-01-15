@@ -1,0 +1,10 @@
+.gitignore
+.idea
+.git
+
+README.md
+
+Dockerfile
+Makefile
+
+colors.gif
